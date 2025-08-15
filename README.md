@@ -7,4 +7,4 @@ Here’s how this process typically works step-by-step\
 • Create a classifier\
 • Fit/train the classifier\
 • Test the classifier on new data\
-• Evaluate performance\
+• Evaluate performance
