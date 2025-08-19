@@ -13,4 +13,4 @@ Here’s how this process typically works step-by-step\
 • Python 3.6+\
 • Pandas\
 • Numpy\
-• sklearn\
+• sklearn
