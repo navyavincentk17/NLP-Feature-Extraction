@@ -10,5 +10,7 @@ Here’s how this process typically works step-by-step\
 • Evaluate performance
 
 ## Requirements
-• Python 3.6+
-• Python 3.6+
+• Python 3.6+\
+• Pandas\
+• Numpy\
+• sklearn\
