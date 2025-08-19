@@ -8,3 +8,7 @@ Here’s how this process typically works step-by-step\
 • Fit/train the classifier\
 • Test the classifier on new data\
 • Evaluate performance
+
+## Requirements
+• Python 3.6+
+• Python 3.6+
